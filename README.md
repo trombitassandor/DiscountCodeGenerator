@@ -38,5 +38,8 @@ Requirements
 • System must be capable of processing multiple requests in parallel.
 
 • Unit tests (optional).
+
 Protocol
-Do not use WEB APIs (REST)
+
+Do not use WEB APIs (REST) for this task. Everything else is allowed for example TCP sockets, web-
+sockets, SignalR, gRPC etc.
